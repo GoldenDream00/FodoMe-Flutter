@@ -36,18 +36,3 @@ src="https://user-images.githubusercontent.com/63441093/128240407-50ca7941-853b-
   Settings                 |   Update User details        |  Feedback/Suggestions/Bug report
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/63441093/128234538-6b6c2187-69f1-417c-99ca-9f53e49a1d2e.png)|![image](https://user-images.githubusercontent.com/63441093/128234588-a9898361-2ee2-45a2-ae82-9861b7aacd8e.png)|![image](https://user-images.githubusercontent.com/63441093/128234619-a5291582-140e-4215-a9cf-92ef132893b4.png)
-
-## How to run the project!
-### - Clone the project
-> ``` git clone  "https://github.com/jsuryakt/fodome-flutter.git" ```
-
-> ```cd fodome-flutter```
-
- ### - Install Requirements
- 
- > ```flutter pub get```
- 
- ### - Run App
- > ```flutter run```
- 
- 
